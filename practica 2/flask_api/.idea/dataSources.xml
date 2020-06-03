@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="data" uuid="5a359d11-6d29-4646-81a1-b6daad5da1e1">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\franc\PycharmProjects\flask_api\data.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="data [2]" uuid="3dc481fc-4cfe-4b64-a066-5c76dc822985">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\franc\Desktop\Uni\SD\Practica 2\flask_api\data.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="data [3]" uuid="dda23293-ba9b-4599-9fe3-aa48486a470f">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\mdl_1\OneDrive\Escritorio\Miki\sd\entrega\A11_2020\Practica 2\flask_api\data.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
